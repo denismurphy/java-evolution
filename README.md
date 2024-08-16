@@ -1,10 +1,10 @@
-# 🚀 Java Evolution - A Tour of New Features in Java 9-21
+# 🚀 A Tour of New Features in Java 9-21
 
-Welcome to this comprehensive guide on the exciting new features introduced in Java versions 9 through 21! 🎉 Each section covers a major Java release, providing code examples to illustrate key innovations.
+New features introduced in Java versions 9 through 21
 
 ## Java 9 📦
 
-Java 9 introduced the Java Platform Module System (JPMS), revolutionizing how Java SE organizes its components for enhanced performance, security, and maintainability.
+Java 9 introduced the Java Platform Module System (JPMS).
 
 ```java
 module com.example.mymodule {
@@ -158,6 +158,4 @@ static String formatter(Object obj) {
 }
 ```
 
-That's it! 🎓 This guide covers the exciting journey of Java from version 9 to 21. Remember to consult the official Java documentation for more detailed information and examples.
-
-Note: Features marked as "preview" may change in future releases. Always check the latest Java documentation for the most up-to-date information. Happy coding! 💻🌟
+Note: Features marked as "preview" may change in future releases. Always check the latest Java documentation for the most up-to-date information.
